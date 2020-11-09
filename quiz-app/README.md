@@ -6,7 +6,7 @@
 git clone https://github.com/frontend-lounge/quizzapp.git
 ```
 
-## Install deps
+## Install dependencies
 ```bash
 npm install:all
 ```
